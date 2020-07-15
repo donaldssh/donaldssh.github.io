@@ -1,0 +1,11 @@
+# Site settings
+title: "donaldss"
+bye_message: "test"
+baseurl: "/home/"
+url: "https://donaldss.github.io"
+disqus: donaldss
+
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
