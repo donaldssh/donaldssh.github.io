@@ -1,7 +1,7 @@
 # Site settings
 title: "donaldss"
 bye_message: "test"
-baseurl: "/"
+baseurl: "/t2/"
 url: "https://donaldss.github.io"
 
 # Build settings
