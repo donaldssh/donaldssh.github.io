@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Projects"
 permalink: /projects/
@@ -7,7 +7,7 @@ permalink: /projects/
 Some projects I've done in my free time in order to optimize my life.
 
 # Random 
-* [t2](https://github.com/donaldssh/t2){:target="_blank"}: This websiste.
+* [t2](https://github.com/donaldssh/t2){:target="_blank"}: This website.
 
 * [Install-OpenCV](https://github.com/donaldssh/Install-OpenCV){:target="_blank"}: OpenCV 4 installer Arch linux.
 
@@ -22,6 +22,9 @@ Some projects I've done in my free time in order to optimize my life.
 
 * [MurialdoBot](https://github.com/donaldssh/MurialdoBot){:target="_blank"}: Simple telegram bot server written in python for retrieving the menu of my favorite mensa of Padua.
 
+# Thesis
+
+* [Bachelor degree](https://amslaurea.unibo.it/18966/){:target="_blank"}: Implementation and analysis of a vehicle counter system with Python and OpenCV.
 
 
 
