@@ -248,3 +248,7 @@ canvas
     position: fixed;
     z-index: -1;
 }
+
+div.container > div.row > div.col-lg-8{
+    background-color: rgba(0, 0, 0, 1);
+}
