@@ -1,8 +1,6 @@
 # Site settings
-title: "t2"
-bye_message: "test"
-baseurl: "/t2"
-url: "https://donaldss.github.io"
+title: "Donald Shenaj"
+url: "https://donaldssh.github.io"
 
 # Build settings
 markdown: kramdown
