@@ -173,7 +173,7 @@ table a {
 .highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
 .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
 .highlight .nn { color: #555555 } /* Name.Namespace */
-.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nt { color: #888888 } /* Name.Tag */
 .highlight .nv { color: #008080 } /* Name.Variable */
 .highlight .ow { font-weight: bold } /* Operator.Word */
 .highlight .w { color: #bbbbbb } /* Text.Whitespace */
@@ -221,34 +221,21 @@ margin: unset;
     font-size: 12px;
 }
 
-
-#particles-js canvas
-{
-    display: block;
-    vertical-align: bottom;
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-    opacity: 1;
-    -webkit-transition: opacity .8s ease, -webkit-transform 1.4s ease;
-    transition: opacity .8s ease, transform 1.4s ease
-}
-#particles-js 
-{
-    width: 100%;
-    height: 100%;
-    position: fixed;
-    z-index: -10;
-    top: 0;
-    left: 0
-}
-canvas
-{
-    display:block;
-    position: fixed;
-    z-index: -1;
-}
-
 div.container > div.row > div.col-lg-8{
     background-color: rgba(0, 0, 0, 1);
+}
+
+#particles-js {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+canvas {
+    display: block;
+    vertical-align: bottom;
 }
