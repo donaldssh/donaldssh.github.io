@@ -28,6 +28,8 @@ Some projects I’ve done in my free time and for university.
 
 * [Digital Signal Processing [19/20]](https://github.com/donaldssh/DSP-HW){:target="_blank"}: FIR and IIR filters design using: Remez, Windowing, Linear Programming and Transform methods.
 
+* Human Data Analytics [20/21]: Autoencoder Fine Tuning for Identity and Sleep Posture Multi-Task Classification.
+
 * [Laboratory of Computational Physics(mod A) [20/21]](https://github.com/donaldssh/Iterative-Prisoners-Dilemma){:target="_blank"}: Multiple Players Iterated Prisoner’s Dilemma. 
 
 * Network Science [19/20]: Network Science analysis of Hyperlink Subreddits Network.
