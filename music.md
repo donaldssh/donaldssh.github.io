@@ -4,11 +4,13 @@ title: "Music"
 permalink: /music/
 ---
 
-This is just a very small and random sample of my favorite music sorted alphabetically but I am planning to do an actual list grouped by genre.
+This is just a very small and random sample of my favorite music sorted alphabetically.
 
 * [Agalloch - In The Shadow Of Our Pale Companion](https://www.youtube.com/watch?v=GvkavKug9jg){:target="_blank"}
 
-* [Aphex twin - Yellow Calx](https://www.youtube.com/watch?v=kaZhbLgZcgs){:target="_blank"}
+* [Amyl and The Sniffers - 70's Street Munchies](https://www.youtube.com/watch?v=uid_8u7T13Y){:target="_blank"}
+
+* [Aphex Twin - Yellow Calx](https://www.youtube.com/watch?v=kaZhbLgZcgs){:target="_blank"}
 
 * [Atari Teenage Riot - SPEED](https://www.youtube.com/watch?v=plAr3adKbyc){:target="_blank"}
 
@@ -42,11 +44,9 @@ This is just a very small and random sample of my favorite music sorted alphabet
 
 * [Mayhem - Freezing Moon](https://www.youtube.com/watch?v=z8VIhIIq-kk){:target="_blank"}
 
-* [Merzbow - Requiem](https://www.youtube.com/watch?v=3VM40unAjfQ){:target="_blank"}
+* [Merzbow - Requiem](https://www.youtube.com/watch?v=FgOg6aYqASY){:target="_blank"}
 
-* [Opeth - To Rid The Disease](https://www.youtube.com/watch?v=2rBoBBpFwB8){:target="_blank"}
-
-* [Paolo Rocchi - Codex temporis](https://www.youtube.com/watch?v=1iakC_UGixo){:target="_blank"}
+* [Opeth - To Rid The Disease](https://www.youtube.com/watch?v=oJW2Zg5sALs){:target="_blank"}
 
 * [Radiohead - Street spirit](https://www.youtube.com/watch?v=LCJblaUkkfc){:target="_blank"}
 
@@ -62,6 +62,6 @@ This is just a very small and random sample of my favorite music sorted alphabet
 
 * [Vandal & Tanya Stevens - Such A Pity](https://www.youtube.com/watch?v=i8NYaTyd1Oc){:target="_blank"}
 
-* [Vashish - Amore per l'Inox](https://www.youtube.com/watch?v=JeMLiIVPmmE){:target="_blank"}
+* [Wermut - Complainte du Galgo noir](https://www.youtube.com/watch?v=g1TNt9b0Sh8&list=RDg1TNt9b0Sh8){:target="_blank"}
 
 * [Yann Tiersen - Rue des Cascades](https://www.youtube.com/watch?v=o8lPEgqE16o){:target="_blank"}
