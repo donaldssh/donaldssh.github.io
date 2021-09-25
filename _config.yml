@@ -5,3 +5,7 @@ url: "https://donaldssh.github.io"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
+# RSS feed
+plugins:
+  - jekyll-feed

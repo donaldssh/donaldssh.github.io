@@ -11,7 +11,7 @@ Some projects I’ve done in my free time and for university.
 <summary markdown="span" style="cursor: pointer;display: list-item" class="h3">Random</summary>
 * [this](https://github.com/donaldssh/t2){:target="_blank"}: Website.
 
-* [elearningcrawler-unipd](https://github.com/donaldssh/elearningcrawler-unipd){:target="_blank"}: Simple web crawlers that allows to save the .m3u8 file of a video or the slides from a unipd course you are attending. 
+* [elearning-crawler-unipd](https://github.com/donaldssh/elearning-crawler-unipd){:target="_blank"}: Simple web crawlers that allows to save the .m3u8 file of a video or the slides from a unipd course you are attending. 
 
 * [calendarize](https://github.com/donaldssh/calendarize){:target="_blank"}: Script to download the calendar from http://agendastudentiunipd.easystaff.it and upload to calcurse. 
 
@@ -40,7 +40,9 @@ Some projects I’ve done in my free time and for university.
 
 <details open> 
 <summary markdown="span" style="cursor: pointer;display: list-item" class="h3">Thesis</summary>
-* [Bachelor degree](https://amslaurea.unibo.it/18966/){:target="_blank"}: Implementation and analysis of a vehicle counter system with Python and OpenCV.
+* [Bachelor's degree](https://amslaurea.unibo.it/18966/){:target="_blank"}: Implementation and analysis of a vehicle counter system with Python and OpenCV.
+
+* Master's degree: Coarse-to-Fine Learning for Semantic Segmentaion across Multiple Domains.
 </details>
 {::options parse_block_html="false" /}
 

@@ -24,7 +24,11 @@ This is just a very small and random sample of my favorite music sorted alphabet
 
 * [Burzum - Dunkelheit](https://www.youtube.com/watch?v=DPyOhP1GTRQ){:target="_blank"}
 
+* [Christ vs. Warhol - And If You Forget](https://www.youtube.com/watch?v=cE1HRPL4m6M){:target="_blank"}
+
 * [Clan Of Xymox - Back Door](https://www.youtube.com/watch?v=3qeCVi2gSeQ){:target="_blank"} 
+
+* [Crimson Scarlet - Sanctuary](https://www.youtube.com/watch?v=8Am9Mf2plIA&list=RDcE1HRPL4m6M){:target="_blank"} 
 
 * [Cristobal Tapia de Veer - "Sugar" from "The Crimson Petal And The White"](https://www.youtube.com/watch?v=gJSJhs3CjG8){:target="_blank"} 
 
@@ -57,8 +61,6 @@ This is just a very small and random sample of my favorite music sorted alphabet
 * [Sizzla - I'm Living (Ed Solo & Stickybuds Remix)](https://www.youtube.com/watch?v=prBV3gFYkNA){:target="_blank"}
 
 * [Thom Yorke - Suspirium](https://www.youtube.com/watch?v=BTZl9KMjbrU){:target="_blank"}
-
-* [Trentemøller - Take me into your skin](https://www.youtube.com/watch?v=Z0XwOjSpdbc){:target="_blank"}
 
 * [Vandal & Tanya Stevens - Such A Pity](https://www.youtube.com/watch?v=i8NYaTyd1Oc){:target="_blank"}
 
