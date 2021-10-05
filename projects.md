@@ -11,11 +11,11 @@ Some projects I’ve done in my free time and for university.
 <summary markdown="span" style="cursor: pointer;display: list-item" class="h3">Random</summary>
 * [this](https://github.com/donaldssh/t2){:target="_blank"}: Website.
 
-* [elearning-crawler-unipd](https://github.com/donaldssh/elearning-crawler-unipd){:target="_blank"}: Simple web crawlers that allows to save the .m3u8 file of a video or the slides from a unipd course you are attending. 
+* [elearning-crawler-unipd](https://github.com/donaldssh/elearning-crawler-unipd){:target="_blank"}: Simple web crawlers used to save videos/slides from elearning.
 
-* [calendarize](https://github.com/donaldssh/calendarize){:target="_blank"}: Script to download the calendar from http://agendastudentiunipd.easystaff.it and upload to calcurse. 
+* [calendarize](https://github.com/donaldssh/calendarize){:target="_blank"}: Script used to download the [unipd calendar](http://agendastudentiunipd.easystaff.it){:target="_blank"} and upload to calcurse. 
 
-* [MurialdoBot](https://github.com/donaldssh/MurialdoBot){:target="_blank"}: Simple telegram bot server written in python for retrieving the menu of my favorite mensa of Padua.
+* [MurialdoBot](https://github.com/donaldssh/MurialdoBot){:target="_blank"}: Simple telegram bot server used to retrieve the menu of my favorite mensa of Padova.
 </details>
 
 <details open> 
