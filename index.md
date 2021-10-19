@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Home"
+title: ""
 permalink: /
 ---
 
-<p><a href="{{ site.url }}/blog">Blog</a></p>
-<p>Personal blog and tutorials.</p>
-<p><a href="{{ site.url }}/projects">Projects</a></p>
-<p>Some projects I’ve done in my free time and for university.</p>
-<p><a href="{{ site.url }}/music">Music</a></p>
-<p>List of my favorite music.</p>
-<p><a href="{{ site.url }}/about">About</a></p>
-<p>Something about me.</p>
+<div id="pic-container">
+    <div class="image">
+        <img src="/images/me.jpeg" id="user-image" alt="My Profile Photo" >
+    </div>
+<div class="text">
+    <h1>Donald Shenaj</h1>
+    <h4>Ph.D. Student in Information Engineering @ Unipd</h4>
+</div>
