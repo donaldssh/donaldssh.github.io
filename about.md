@@ -12,3 +12,5 @@ My main research interests are in Deep Learning and Computer Vision, in particul
 * Incremental and Coarse-to-Fine Learning
 * Unsupervised Domain Adaptation
 * Semantic Segmentation
+
+<a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>Download CV</a>
