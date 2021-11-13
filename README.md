@@ -1,3 +1,0 @@
-### About
-
-Dummy page.

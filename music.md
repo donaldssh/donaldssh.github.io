@@ -4,9 +4,9 @@ title: "Music"
 permalink: /music/
 ---
 
-This is just a very small and random sample of my favorite music sorted alphabetically.
+Just a small sample of my favorite music.
 
-* [Agalloch - In The Shadow Of Our Pale Companion](https://www.youtube.com/watch?v=GvkavKug9jg){:target="_blank"}
+* [Agalloch - In The Shadow Of Our Pale Companion](https://www.youtube.com/watch?v=6-HDYLJZWGs){:target="_blank"}
 
 * [Amyl and The Sniffers - 70's Street Munchies](https://www.youtube.com/watch?v=uid_8u7T13Y){:target="_blank"}
 
@@ -50,20 +50,18 @@ This is just a very small and random sample of my favorite music sorted alphabet
 
 * [Merzbow - Requiem](https://www.youtube.com/watch?v=FgOg6aYqASY){:target="_blank"}
 
-* [Opeth - To Rid The Disease](https://www.youtube.com/watch?v=oJW2Zg5sALs){:target="_blank"}
-
 * [Radiohead - Street spirit](https://www.youtube.com/watch?v=LCJblaUkkfc){:target="_blank"}
 
 * [She Past Away - Kasvetli Kutlama](https://www.youtube.com/watch?v=oy2x_kHCy4w){:target="_blank"}
 
-* [Silver Apples - You and I](https://www.youtube.com/watch?v=uzBlQAqILK0){:target="_blank"}
-
 * [Sizzla - I'm Living (Ed Solo & Stickybuds Remix)](https://www.youtube.com/watch?v=prBV3gFYkNA){:target="_blank"}
+
+* [Teddy And His Patches - Suzy Creamcheese](https://www.youtube.com/watch?v=SOaxtDSWWi0){:target="_blank"}
 
 * [Thom Yorke - Suspirium](https://www.youtube.com/watch?v=BTZl9KMjbrU){:target="_blank"}
 
-* [Vandal & Tanya Stevens - Such A Pity](https://www.youtube.com/watch?v=i8NYaTyd1Oc){:target="_blank"}
+* [Vandal - Mr Politician](https://www.youtube.com/watch?v=r5xTmK2Fq1w){:target="_blank"}
 
-* [Wermut - Complainte du Galgo noir](https://www.youtube.com/watch?v=g1TNt9b0Sh8&list=RDg1TNt9b0Sh8){:target="_blank"}
+* [Witching Hour - Ligea](https://www.youtube.com/watch?v=CK9RZ9qgSfg&list=RDCK9RZ9qgSfg&start_radio=1){:target="_blank"}
 
 * [Yann Tiersen - Rue des Cascades](https://www.youtube.com/watch?v=o8lPEgqE16o){:target="_blank"}
