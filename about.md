@@ -16,4 +16,4 @@ My main research interests are in Deep Learning and Computer Vision, in particul
 * Semantic Segmentation
 
 #### Publications
-[1]   D. Shenaj, F. Barbato, U. Michieli and P. Zanuttigh, "Continual Coarse-to-Fine Domain Adaptation in Semantic Segmentation", under submission, 2022. [PDF](https://arxiv.org/pdf/2201.06974.pdf){:target="_blank"}
+[1]   D. Shenaj, F. Barbato, U. Michieli and P. Zanuttigh,  Continual coarse-to-fine domain adaptation in semantic segmentation, Image and Vision Computing (2022). [doi](https://doi.org/10.1016/j.imavis.2022.104426){:target="_blank"}
