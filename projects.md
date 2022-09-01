@@ -11,11 +11,17 @@ Some projects I’ve done in my free time and for university.
 <summary markdown="span" style="cursor: pointer;display: list-item" class="h3">Random</summary>
 * [this](https://github.com/donaldssh/t2){:target="_blank"}: Website.
 
+* [autoclick-elearning](https://github.com/donaldssh/autoclick-elearning){:target="_blank"}: Autoclick a button on the screen for the attendance check.
+
 * [elearning-crawler-unipd](https://github.com/donaldssh/elearning-crawler-unipd){:target="_blank"}: Simple web crawlers used to save videos/slides from elearning.
 
-* [calendarize](https://github.com/donaldssh/calendarize){:target="_blank"}: Script used to download the [unipd calendar](http://agendastudentiunipd.easystaff.it){:target="_blank"} and upload to calcurse. 
+* [telegram-chat-word-cloud](https://github.com/donaldssh/telegram-chat-word-cloud){:target="_blank"}: Compute a word cloud for each telegram chat saved as json data. 
 
 * [MurialdoBot](https://github.com/donaldssh/MurialdoBot){:target="_blank"}: Simple telegram bot server used to retrieve the menu of my favorite mensa of Padova.
+
+* [calendarize](https://github.com/donaldssh/calendarize){:target="_blank"}: Download the [unipd calendar](http://agendastudentiunipd.easystaff.it){:target="_blank"} and upload to calcurse. 
+
+
 </details>
 
 <details open> 
@@ -38,12 +44,6 @@ Some projects I’ve done in my free time and for university.
 
 </details>
 
-<details open> 
-<summary markdown="span" style="cursor: pointer;display: list-item" class="h3">Thesis</summary>
-* [Bachelor's degree](https://amslaurea.unibo.it/18966/){:target="_blank"}: Implementation and analysis of a vehicle counter system with Python and OpenCV.
-
-* Master's degree: Coarse-to-Fine Learning for Semantic Segmentaion across Multiple Domains.
-</details>
 {::options parse_block_html="false" /}
 
 
