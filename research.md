@@ -16,7 +16,7 @@ My research interests are: Federated Learning, Continual Learning, Unsupervised 
 
 #####  Conferences 
 
-[C1] D. Shenaj<sup>\*</sup>, E. Fanì<sup>\*</sup>, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[arxiv]](){:target="_blank"}[[code]](https://github.com/Erosinho13/LADD){:target="_blank"}
+[C1] D. Shenaj<sup>\*</sup>, E. Fanì<sup>\*</sup>, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[arxiv]](https://arxiv.org/abs/2210.02326){:target="_blank"}[[code]](https://github.com/Erosinho13/LADD){:target="_blank"}
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
 ##### Bachelor and Master Thesis  
