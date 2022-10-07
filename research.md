@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-I am a first year Ph.D. student (37° cycle) in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"}, under the supervision of Prof. [Pietro Zanuttigh](https://lttm.dei.unipd.it//nuovo/staff/zanuttigh.htm){:target="_blank"} 
+I am a second year Ph.D. student (37° cycle) in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"}, under the supervision of Prof. [Pietro Zanuttigh](https://lttm.dei.unipd.it//nuovo/staff/zanuttigh.htm){:target="_blank"} 
 
 My research interests are: Federated Learning, Continual Learning, Unsupervised Domain Adaptation, and Semantic Segmentation.
 
