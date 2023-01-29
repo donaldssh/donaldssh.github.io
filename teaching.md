@@ -13,7 +13,7 @@ permalink: /teaching/
 **Teacher**: Prof. Pietro Zanuttigh <br>
 <br>
 * **Teaching assistant** @ Department of Information Engineering, University of Padova <br>
-**Course**: [Scientific computing with python](https://didattica.unipd.it/off/2022/LM/IN/IN2371/004PD/INQ2100742/N0){:target="_blank"} - MSc ICT for Internet and Multimedia <br>
+**Course**: [Scientific computing with python](https://didattica.unipd.it/off/2022/LM/IN/IN2371/004PD/INQ2100742/N0){:target="_blank"} - MSc Physics of Data, MSc ICT for Internet and Multimedia <br>
 **Teacher**: Prof. Alberto Zucchetta <br>
 </details>
 <br>
