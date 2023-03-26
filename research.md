@@ -4,9 +4,14 @@ title: "Research"
 permalink: /research/
 ---
 
-I am a second year Ph.D. student (37° cycle) in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"}, under the supervision of Prof. [Pietro Zanuttigh](https://lttm.dei.unipd.it//nuovo/staff/zanuttigh.htm){:target="_blank"} 
+I am a second year Ph.D. student (37° cycle) in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), under the supervision of Prof. [Pietro Zanuttigh](https://lttm.dei.unipd.it//nuovo/staff/zanuttigh.htm){:target="_blank"}
 
-My research interests are: Federated Learning, Continual Learning, Unsupervised Domain Adaptation, and Semantic Segmentation.
+I am interested in large scale machine learning problems and their applications to computer vision.
+In particular, my research interests are:
+- Federated Learning
+- Continual Learning
+- Domain Adaptation
+- Semantic Segmentation
 
 
 #### Publications
@@ -16,7 +21,7 @@ My research interests are: Federated Learning, Continual Learning, Unsupervised 
 
 #####  Conferences 
 
-[C1] D. Shenaj<sup>\*</sup>, E. Fanì<sup>\*</sup>, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[arxiv]](https://arxiv.org/abs/2210.02326){:target="_blank"}[[code]](https://github.com/Erosinho13/LADD){:target="_blank"}
+[C1] D. Shenaj<sup>\*</sup>, E. Fanì<sup>\*</sup>, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[paper]](https://arxiv.org/abs/2210.02326){:target="_blank"}[[code]](https://github.com/Erosinho13/LADD){:target="_blank"}
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
 ##### Bachelor and Master Thesis  
