@@ -17,11 +17,14 @@ In particular, my research interests are:
 #### Publications
 
 ##### Journals
-[J1]   D. Shenaj, F. Barbato, U. Michieli and P. Zanuttigh, "Continual coarse-to-fine domain adaptation in semantic segmentation", Elsevier Image and Vision Computing, 2022. [[doi]](https://doi.org/10.1016/j.imavis.2022.104426){:target="_blank"}[[webpage]](https://lttm.dei.unipd.it/paper_data/CCDA/){:target="_blank"}[[code]](https://github.com/LTTM/CCDA){:target="_blank"}
+[J1]   D. Shenaj, F. Barbato, U. Michieli, P. Zanuttigh, "Continual coarse-to-fine domain adaptation in semantic segmentation", Elsevier Image and Vision Computing, 2022. [[doi]](https://doi.org/10.1016/j.imavis.2022.104426){:target="_blank"}[[webpage]](https://lttm.dei.unipd.it/paper_data/CCDA/){:target="_blank"}[[code]](https://github.com/LTTM/CCDA){:target="_blank"}
 
 #####  Conferences 
 
 [C1] D. Shenaj<sup>\*</sup>, E. Fanì<sup>\*</sup>, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[paper]](https://arxiv.org/abs/2210.02326){:target="_blank"}[[code]](https://github.com/Erosinho13/LADD){:target="_blank"}
+
+[C2] D. Shenaj, M. Toldo, A. Rigon, P. Zanuttigh, "Asynchronous Federated Continual Learning", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023. (accepted) [[paper]](https://arxiv.org/abs/2304.03626){:target="_blank"}[[code]](https://github.com/LTTM/FedSpace){:target="_blank"}
+
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
 ##### Bachelor and Master Thesis  
