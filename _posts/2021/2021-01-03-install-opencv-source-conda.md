@@ -5,20 +5,16 @@ date:   2021-01-03 12:00:00
 categories:
     - blog
 tags:
-    - computer vision
+    - system
 ---
 
 # Motivation
 
 In this guide we'll see how to install OpenCV from source inside a conda environment.
 
-This is useful when we want to set some specific compilation flags for instance to install also the patented modules inside `cv::xfeature2d`, in order to use surf and sift descriptors.
+This is useful when we want to set some specific compilation flags, i.e. to install also the patented modules inside `cv::xfeature2d`, in order to use surf and sift descriptors.
 
-Otherwise if we just need the basic Python installation we could install opencv-python with pip since it is not present in conda.
-
-In general it is better to install OpenCV from source inside a conda virtual environment because typically it is used in combination with other libraries like PyTorch and we want to keep them isolated from the system Python also because it can be incopatible. At the moment in fact Python 3.9 is not yet supported by PyTorch.
-
-Since conda is very used I assume that you have already installed it, so i'll skip this part, otherwise reference to their  [website](https://docs.anaconda.com/anaconda/install/){:target="_blank"}.
+Otherwise, if we just need the basic Python installation, we could install opencv-python with pip.
 
 # Installation
 
@@ -32,7 +28,7 @@ Extract the tar.gz (or zip) archives
 tar -xvzf opencv4
 tar -xvzf opencv4_contrib
 ```
-Place opencv folders where you want, in my case I'll place them in /opt since I have many installations but you may leave them in the home.
+Place opencv folders where you want, in my case I'll place them in /opt.
 ```sh
 mv ~/opencv4 /opt
 mv ~/opencv4_contrib /opt
@@ -90,7 +86,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> cv2.xfeatures2d.SURF_create()
 <xfeatures2d_SURF 0x7fdfbcdf30f0>
 ```
-In case it is not correctly installed we will see a message like
+In case it is not correctly installed we will the following error
 ```sh
 /src/surf.cpp:1029: error: (-213:The function/feature is not implemented) This algorithm is patented and is excluded in this configuration; Set OPENCV_ENABLE_NONFREE CMake option and rebuild the library in function 'create'
 ```
