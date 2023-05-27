@@ -2,3 +2,9 @@ Gemfile
 Gemfile.lock
 /_site
 css/_site
+.idea/
+*.py
+_posts/*/_site
+_posts/*/*.png
+_posts/*/*.pdf
+_posts/*/*.txt
