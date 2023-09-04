@@ -24,6 +24,9 @@ In particular, my research interests are:
 ##### Journals
 [J1]   **D. Shenaj**, F. Barbato, U. Michieli, P. Zanuttigh, "Continual coarse-to-fine domain adaptation in semantic segmentation", Elsevier Image and Vision Computing, 2022. [[doi]](https://doi.org/10.1016/j.imavis.2022.104426){:target="_blank"}[[webpage]](https://lttm.dei.unipd.it/paper_data/CCDA/){:target="_blank"}[[code]](https://github.com/LTTM/CCDA){:target="_blank"}
 
+[J2]   **D. Shenaj**<sup>\*</sup>, G. Rizzoli<sup>\*</sup>, P. Zanuttigh, "Federated Learning in Computer Vision", IEEE Access, 2023. [[doi]](https://doi.org/10.1109/ACCESS.2023.3310400){:target="_blank"}[[paper]](https://ieeexplore.ieee.org/document/10234425){:target="_blank"}
+
+
 #####  Conferences 
 
 [C1] **D. Shenaj**<sup>\*</sup>, E. Fanì<sup>\*</sup>, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[paper]](https://arxiv.org/abs/2210.02326){:target="_blank"}[[code]](https://github.com/Erosinho13/LADD){:target="_blank"}
