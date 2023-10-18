@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-I am a second year Ph.D. student (37° cycle) in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), under the supervision of Prof. [Pietro Zanuttigh](https://lttm.dei.unipd.it//nuovo/staff/zanuttigh.htm){:target="_blank"}.
+I am a third year Ph.D. student in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), under the supervision of Prof. [Pietro Zanuttigh](https://lttm.dei.unipd.it//nuovo/staff/zanuttigh.htm){:target="_blank"}.
 
 Currently, I am a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, under the supervision of Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
