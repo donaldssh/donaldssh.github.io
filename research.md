@@ -33,9 +33,7 @@ In particular, my research interests are:
 
 [C2] **D. Shenaj**, M. Toldo, A. Rigon, P. Zanuttigh, "Asynchronous Federated Continual Learning", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023. [[paper]](https://arxiv.org/abs/2304.03626){:target="_blank"}[[code]](https://github.com/LTTM/FedSpace){:target="_blank"}
 
-#####  Preprints
-
-[P1] G. Rizzoli, **D. Shenaj**, P Zanuttigh, "Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers". [[arxiv]](https://arxiv.org/abs/2305.14269){:target="_blank"}
+[c3] G. Rizzoli, **D. Shenaj**, P Zanuttigh, "Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024. [[arxiv]](https://arxiv.org/abs/2305.14269){:target="_blank"}
 
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
