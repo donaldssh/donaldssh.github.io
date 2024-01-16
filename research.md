@@ -6,7 +6,7 @@ permalink: /research/
 
 I am a third year Ph.D. student in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), under the supervision of Prof. [Pietro Zanuttigh](https://lttm.dei.unipd.it//nuovo/staff/zanuttigh.htm){:target="_blank"}.
 
-Currently, I am a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, under the supervision of Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
+From May to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, under the supervision of Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
 I am interested in large scale machine learning problems and their applications to computer vision.
 In particular, my research interests are:
