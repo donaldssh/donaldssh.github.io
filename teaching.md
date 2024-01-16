@@ -16,6 +16,7 @@ permalink: /teaching/
 **Course**: [Machine Learning](https://didattica.unipd.it/off/2023/LM/IN/IN2371/006PD/INP9087775/G2GR2){:target="_blank"} - MSc ICT for Internet and Multimedia <br>
 **Teacher**: Prof. Pietro Zanuttigh <br>
 </details>
+<br>
 <details open> 
 <summary markdown="span" style="cursor: pointer;display: list-item" class="h5">A.Y. 22-23</summary>
 * **Teaching assistant** @ Department of Information Engineering, University of Padova <br>
