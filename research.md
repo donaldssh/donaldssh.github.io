@@ -22,7 +22,7 @@ In particular, my research interests are:
 #### Publications
 
 ##### Journals
-[J1]   **D. Shenaj**, F. Barbato, U. Michieli, P. Zanuttigh, "Continual coarse-to-fine domain adaptation in semantic segmentation", Elsevier Image and Vision Computing, 2022. [[doi]](https://doi.org/10.1016/j.imavis.2022.104426){:target="_blank"}[[webpage]](https://lttm.dei.unipd.it/paper_data/CCDA/){:target="_blank"}[[code]](https://github.com/LTTM/CCDA){:target="_blank"}
+[J1]   **D. Shenaj**, F. Barbato, U. Michieli, P. Zanuttigh, "Continual coarse-to-fine domain adaptation in semantic segmentation", Elsevier Image and Vision Computing, 2022. [[paper]](https://doi.org/10.1016/j.imavis.2022.104426){:target="_blank"}[[webpage]](https://lttm.dei.unipd.it/paper_data/CCDA/){:target="_blank"}[[code]](https://github.com/LTTM/CCDA){:target="_blank"}
 
 [J2]   **D. Shenaj**<sup>\*</sup>, G. Rizzoli<sup>\*</sup>, P. Zanuttigh, "Federated Learning in Computer Vision", IEEE Access, 2023. [[doi]](https://doi.org/10.1109/ACCESS.2023.3310400){:target="_blank"}[[paper]](https://ieeexplore.ieee.org/document/10234425){:target="_blank"}
 
@@ -33,7 +33,12 @@ In particular, my research interests are:
 
 [C2] **D. Shenaj**, M. Toldo, A. Rigon, P. Zanuttigh, "Asynchronous Federated Continual Learning", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023. [[paper]](https://arxiv.org/abs/2304.03626){:target="_blank"}[[code]](https://github.com/LTTM/FedSpace){:target="_blank"}
 
-[c3] G. Rizzoli, **D. Shenaj**, P Zanuttigh, "Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024. [[arxiv]](https://arxiv.org/abs/2305.14269){:target="_blank"}
+[C3] G. Rizzoli, **D. Shenaj**, P Zanuttigh, "Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024. [[paper]](https://arxiv.org/abs/2305.14269){:target="_blank"}
+
+
+#####  Preprints 
+
+[P1] G. Rizzoli<sup>\*</sup>, M. Caligiuri<sup>\*</sup>, **D. Shenaj**, F. Barbato, P. Zanuttigh, "When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather", arXiv:2403.13762, 2024. [[paper]](https://arxiv.org/abs/2403.13762){:target="_blank"}
 
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
