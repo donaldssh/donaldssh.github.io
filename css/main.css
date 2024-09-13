@@ -255,3 +255,12 @@ canvas {
     padding-left: 4%;
     flex-basis: 70%
 }
+
+.paper_code {
+    text-decoration: none;
+    color: rgba(220,220,0,0.8);    
+}
+
+.paper_code:hover{
+    color: rgba(220,220,0,0.6);   
+}

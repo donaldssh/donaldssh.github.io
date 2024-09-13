@@ -15,23 +15,70 @@ In particular, during my Ph.D. I worked on **Federated Learning**, **Continual L
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
 
 
-#### Publications
+### Publications
 
-##### Journals
-[J1]   **D. Shenaj**, F. Barbato, U. Michieli, P. Zanuttigh, "Continual coarse-to-fine domain adaptation in semantic segmentation", Elsevier Image and Vision Computing, 2022. [[paper]](https://doi.org/10.1016/j.imavis.2022.104426){:target="_blank"}[[webpage]](https://lttm.dei.unipd.it/paper_data/CCDA/){:target="_blank"}[[code]](https://github.com/LTTM/CCDA){:target="_blank"}
-
-[J2]   **D. Shenaj**<sup>\*</sup>, G. Rizzoli<sup>\*</sup>, P. Zanuttigh, "Federated Learning in Computer Vision", IEEE Access, 2023. [[doi]](https://doi.org/10.1109/ACCESS.2023.3310400){:target="_blank"}[[paper]](https://ieeexplore.ieee.org/document/10234425){:target="_blank"}
+#### Journals
 
 
-#####  Conferences 
+<table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/LTTM/CCDA/main/img/architecture_ccda.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> [J1] <b>D. Shenaj</b>, F. Barbato, U. Michieli, P. Zanuttigh, "<b>Continual coarse-to-fine domain adaptation in semantic segmentation</b>", Elsevier Image and Vision Computing, 2022. <a href="https://doi.org/10.1016/j.imavis.2022.104426" class="paper_code">[paper]</a><a href="https://lttm.dei.unipd.it/paper_data/CCDA/" class="paper_code">[webpage]</a><a href="https://github.com/LTTM/CCDA" class="paper_code">[code]</a> </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/survey.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> [J2]  <b>D. Shenaj</b>*, G. Rizzoli*, P. Zanuttigh, "<b>Federated Learning in Computer Vision</b>", IEEE Access, 2023. <a href="https://ieeexplore.ieee.org/document/10234425" class="paper_code">[paper]</a> </p>
+    </td>
+  </tr>
+</table>
 
-[C1] **D. Shenaj**<sup>\*</sup>, E. Fanì<sup>\*</sup>, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[paper]](https://arxiv.org/abs/2210.02326){:target="_blank"}[[code]](https://github.com/Erosinho13/LADD){:target="_blank"}
 
-[C2] **D. Shenaj**, M. Toldo, A. Rigon, P. Zanuttigh, "Asynchronous Federated Continual Learning", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023. [[paper]](https://arxiv.org/abs/2304.03626){:target="_blank"}[[code]](https://github.com/LTTM/FedSpace){:target="_blank"}
+####  Conferences
 
-[C3] G. Rizzoli, **D. Shenaj**, P Zanuttigh, "Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024. [[paper]](https://arxiv.org/abs/2305.14269){:target="_blank"}
 
-[C4] G. Rizzoli<sup>\*</sup>, M. Caligiuri<sup>\*</sup>, **D. Shenaj**, F. Barbato, P. Zanuttigh, "When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. [[paper]](https://arxiv.org/abs/2403.13762){:target="_blank"}[[code]](https://github.com/LTTM/HyperFLAW){:target="_blank"}
+<table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/Erosinho13/LADD/refs/heads/main/teaser.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> [C1] <b>D. Shenaj</b>*, E. Fanì*, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “<b>Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning</b>”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. <a href="https://arxiv.org/abs/2210.02326" class="paper_code">[paper]</a><a href="https://github.com/Erosinho13/LADD" class="paper_code">[code]</a> </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/LTTM/FedSpace/main/media/setup.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p>[C2] <b>D. Shenaj</b>, M. Toldo, A. Rigon, P. Zanuttigh, "<b>Asynchronous Federated Continual Learning</b>", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023. <a href="https://arxiv.org/abs/2304.03626" class="paper_code">[paper]</a><a href="https://github.com/LTTM/FedSpace" class="paper_code">[code]</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/misfit.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+<p>[C3] G. Rizzoli, <b>D. Shenaj</b>, P Zanuttigh, "<b>Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers</b>", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024. <a href="https://arxiv.org/abs/2305.14269" class="paper_code">[paper]</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/hyper.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+ <p>[C4] G. Rizzoli*, M. Caligiuri*, <b>D. Shenaj</b>, F. Barbato, P. Zanuttigh, "<b>When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather</b>", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.  <a href="https://arxiv.org/abs/2403.13762" class="paper_code">[paper]</a><a href="https://github.com/LTTM/HyperFLAW" class="paper_code">[code]</a> </p>
+ </td>
+  </tr>
+</table>
+
+
 
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
