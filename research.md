@@ -9,11 +9,7 @@ I am a third year Ph.D. student in [Information Engineering](https://phd.dei.uni
 From May to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, under the supervision of Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
 I am interested in large scale machine learning problems and their applications to computer vision.
-In particular, my research interests are:
-- Federated Learning
-- Continual Learning
-- Domain Adaptation
-- Semantic Segmentation
+In particular, during my Ph.D. I worked on **Federated Learning**, **Continual Learning** and **Domain Adaptation** for Visual Understanding.
 
 
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
