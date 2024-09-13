@@ -35,7 +35,7 @@ In particular, my research interests are:
 
 [C3] G. Rizzoli, **D. Shenaj**, P Zanuttigh, "Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024. [[paper]](https://arxiv.org/abs/2305.14269){:target="_blank"}
 
-[C4] G. Rizzoli<sup>\*</sup>, M. Caligiuri<sup>\*</sup>, **D. Shenaj**, F. Barbato, P. Zanuttigh, "When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. [[paper]](https://arxiv.org/abs/2403.13762){:target="_blank"}
+[C4] G. Rizzoli<sup>\*</sup>, M. Caligiuri<sup>\*</sup>, **D. Shenaj**, F. Barbato, P. Zanuttigh, "When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025. [[paper]](https://arxiv.org/abs/2403.13762){:target="_blank"}[[code]](https://github.com/LTTM/HyperFLAW){:target="_blank"}
 
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
