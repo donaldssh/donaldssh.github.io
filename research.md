@@ -4,7 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
-I am a third year Ph.D. student in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), under the supervision of Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}.
+I am currently doing an internship at [Samsung Research UK](https://research.samsung.com/sruk){:target="_blank"} under the supervision of [Umberto Michieli](https://umbertomichieli.github.io/){:target="_blank"} and [Mete Ozay](https://openreview.net/profile?id=~Mete_Ozay3){:target="_blank"}.
+
+I am a third year Ph.D. student in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), under the supervision of Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}. On September 30th, 2024, I submitted my Ph.D. thesis for review.
 
 From May to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, under the supervision of Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
