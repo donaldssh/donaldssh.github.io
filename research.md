@@ -29,7 +29,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/lorarar.png" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
-    <p> [P1]  <b>D. Shenaj</b>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli, "<b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b>", arXiv:2412.05148, 2024. <a href="https://arxiv.org/abs/2412.05148" class="paper_code">[paper]</a> </p>
+    <p> [P1]  <b>D. Shenaj</b>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli, "<b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b>", arXiv:2412.05148, 2024. <a href="https://arxiv.org/abs/2412.05148" class="paper_code">[paper]</a><a href="https://github.com/donaldssh/LoRA.rar" class="paper_code">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="paper_code">[video]</a></p>
     </td>
   </tr>
 </table>
@@ -97,7 +97,10 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
 </table>
 
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
-##### Bachelor and Master Thesis  
+##### Ph.D., Master's and Bachelor's Thesis  
+
+[T3] D. Shenaj, "Morphing Distributed and Transfer Learning Paradigms for Visual Understanding", Ph.D thesis in Information Engineering, University of Padova, (Submitted) December 2024.
+
 
 [T2] D. Shenaj, "Coarse-to-Fine Learning for Semantic Segmentaion across Multiple Domains", MS thesis in ICT for Internet and Multimedia, University of Padova, September 2021.
 
