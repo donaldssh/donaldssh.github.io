@@ -6,7 +6,7 @@ permalink: /
 
 <div id="pic-container">
     <div class="image">
-        <img src="/images/pic.png" id="user-image" alt="My Profile Photo" >
+        <img src="/images/pic.jpg" id="user-image" alt="My Profile Photo" >
     </div>
 <div class="text">
     <h1>Donald Shenaj</h1> 
