@@ -9,7 +9,9 @@ permalink: /
         <img src="/images/pic.png" id="user-image" alt="My Profile Photo" >
     </div>
 <div class="text">
-    <h1>Donald Shenaj</h1>
+    <h1>Donald Shenaj</h1> 
+    <h6><a href="https://pronoun.is/#Pronoun-Usage-and-Social-Impact) he/him." target="_blank">(he/him)</a></h6>
+    <br>
     <h4>AI Research Intern @ <a href="https://research.samsung.com/sruk" target="_blank"> Samsung Research UK </a></h4>
     <br>
     <h4>Ph.D. Student @ University of Padova,  <a href="https://medialab.dei.unipd.it/" target="_blank">  Media Research Group </a> </h4>
