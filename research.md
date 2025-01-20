@@ -44,7 +44,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/hyper.png" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
- <p>[C4] G. Rizzoli*, M. Caligiuri*, <b>D. Shenaj</b>, F. Barbato, P. Zanuttigh, "<b>When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather</b>", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.  <a href="https://arxiv.org/abs/2403.13762" class="paper_code">[paper]</a><a href="https://github.com/LTTM/HyperFLAW" class="paper_code">[code]</a> </p>
+ <p>[C4] G. Rizzoli*, M. Caligiuri*, <b>D. Shenaj</b>, F. Barbato, P. Zanuttigh, "<b>When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather</b>", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 (oral).  <a href="https://arxiv.org/abs/2403.13762" class="paper_code">[paper]</a><a href="https://github.com/LTTM/HyperFLAW" class="paper_code">[code]</a> </p>
  </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/misfit.png" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
-<p>[C3] G. Rizzoli, <b>D. Shenaj</b>, P Zanuttigh, "<b>Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers</b>", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024. <a href="https://arxiv.org/abs/2305.14269" class="paper_code">[paper]</a></p>
+<p>[C3] G. Rizzoli, <b>D. Shenaj</b>, P Zanuttigh, "<b>Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers</b>", IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024 (oral). <a href="https://arxiv.org/abs/2305.14269" class="paper_code">[paper]</a></p>
     </td>
   </tr>
   <tr>
