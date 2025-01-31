@@ -28,11 +28,11 @@ Just a small sample of my favorite music.
 
 * [Christ vs. Warhol - And If You Forget](https://www.youtube.com/watch?v=cE1HRPL4m6M){:target="_blank"}
 
-* [Clan Of Xymox - Back Door](https://www.youtube.com/watch?v=3qeCVi2gSeQ){:target="_blank"} 
+* [Clan Of Xymox - Back Door](https://www.youtube.com/watch?v=y47PxC9u6Kc){:target="_blank"} 
 
-* [Crimson Scarlet - Sanctuary](https://www.youtube.com/watch?v=8Am9Mf2plIA&list=RDcE1HRPL4m6M){:target="_blank"} 
+* [Crimson Scarlet - Sanctuary](https://www.youtube.com/watch?v=8Am9Mf2plIA){:target="_blank"} 
 
-* [Cristobal Tapia de Veer - "Sugar" from "The Crimson Petal And The White"](https://www.youtube.com/watch?v=gJSJhs3CjG8){:target="_blank"} 
+* [Cristobal Tapia de Veer - Utopia Overture](https://www.youtube.com/watch?v=f6855KGtN1Y){:target="_blank"} 
 
 * [Crystal Castles - Doe Deer](https://www.youtube.com/watch?v=0ruvmkCq4esBeneath){:target="_blank"}
 
