@@ -29,10 +29,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/lorarar.png" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
-    <b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b>
-    <b>D. Shenaj</b>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli
-    ArXiv 2024.
-    <a href="https://arxiv.org/abs/2412.05148" class="paper_code">[paper]</a><a href="https://github.com/donaldssh/LoRA.rar" class="paper_code">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="paper_code">[video]</a>
+    <p> [P1]  <b>D. Shenaj</b>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli, "<b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b>", arXiv:2412.05148, 2024. <a href="https://arxiv.org/abs/2412.05148" class="paper_code">[paper]</a><a href="https://github.com/donaldssh/LoRA.rar" class="paper_code">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="paper_code">[video]</a></p>
     </td>
   </tr>
 </table>
