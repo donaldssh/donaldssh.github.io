@@ -60,7 +60,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
       <img src="https://raw.githubusercontent.com/LTTM/FedSpace/main/media/setup.png" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
-    <p>[C2] <b>D. Shenaj</b>, M. Toldo, A. Rigon, P. Zanuttigh, "<b>Asynchronous Federated Continual Learning</b>", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023. <a href="https://arxiv.org/abs/2304.03626" class="paper_code">[paper]</a><a href="https://github.com/LTTM/FedSpace" class="paper_code">[code]</a></p>
+    <p>[C2] <b>D. Shenaj</b>, M. Toldo, A. Rigon, P. Zanuttigh, "<b>Asynchronous Federated Continual Learning</b>", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023 (oral). <a href="https://arxiv.org/abs/2304.03626" class="paper_code">[paper]</a><a href="https://github.com/LTTM/FedSpace" class="paper_code">[code]</a></p>
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
       <img src="https://raw.githubusercontent.com/Erosinho13/LADD/refs/heads/main/teaser.png" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
-    <p> [C1] <b>D. Shenaj</b>*, E. Fanì*, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “<b>Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning</b>”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. <a href="https://arxiv.org/abs/2210.02326" class="paper_code">[paper]</a><a href="https://github.com/Erosinho13/LADD" class="paper_code">[code]</a> </p>
+    <p> [C1] <b>D. Shenaj</b>*, E. Fanì*, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup>, “<b>Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning</b>”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023 (oral). <a href="https://arxiv.org/abs/2210.02326" class="paper_code">[paper]</a><a href="https://github.com/Erosinho13/LADD" class="paper_code">[code]</a> </p>
     </td>
   </tr>
 </table>
