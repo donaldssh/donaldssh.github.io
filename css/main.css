@@ -256,11 +256,11 @@ canvas {
     flex-basis: 70%
 }
 
-.paper_code {
+.link_research {
     text-decoration: none;
     color: rgba(220,220,0,0.8);    
 }
 
-.paper_code:hover{
+.link_research:hover{
     color: rgba(220,220,0,0.6);   
 }
