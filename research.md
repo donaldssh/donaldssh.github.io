@@ -30,7 +30,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b> <br>
-      <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli <br>
+      <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli <br>
        arXiv 2024. <br>
       <a href="https://arxiv.org/abs/2412.05148" class="link_research">[paper]</a><a href="https://github.com/donaldssh/LoRA.rar" class="link_research">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="link_research">[video]</a>
     </p>
@@ -49,7 +49,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>Adaptive Local Training in Federated Learning</b> <br>
-        <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>, E. Belilovsky, P. Zanuttigh  <br>
+        <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, E. Belilovsky, P. Zanuttigh  <br>
        International Conference on Learning Representations (ICLR), 2025, MCDC Workshop.<br>
       <a href="https://openreview.net/forum?id=EAMnemlXB2" class="link_research">[paper]</a>
     </p>
@@ -61,7 +61,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather</b> <br>
-        G. Rizzoli*, M. Caligiuri*, <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>, F. Barbato, P. Zanuttigh  <br>
+        G. Rizzoli*, M. Caligiuri*, <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, F. Barbato, P. Zanuttigh  <br>
        IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 (oral).<br>
       <a href="https://arxiv.org/abs/2403.13762" class="link_research">[paper]</a><a href="https://github.com/LTTM/HyperFLAW" class="link_research">[code]</a> 
     </p>
@@ -73,7 +73,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>Source-Free Domain Adaptation for RGB-D Semantic Segmentation with Vision Transformers</b> <br> 
-       G. Rizzoli, <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>, P Zanuttigh <br> 
+       G. Rizzoli, <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, P Zanuttigh <br> 
        IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Pretrain Workshop 2024 (oral). <br> 
         <a href="https://arxiv.org/abs/2305.14269" class="link_research">[paper]</a>
     </p>
@@ -85,7 +85,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>Asynchronous Federated Continual Learning</b> <br>
-     <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>, M. Toldo, A. Rigon, P. Zanuttigh <br>
+     <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, M. Toldo, A. Rigon, P. Zanuttigh <br>
      IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), FedVision Workshop, 2023 (oral). <br>
       <a href="https://arxiv.org/abs/2304.03626" class="link_research">[paper]</a><a href="https://github.com/LTTM/FedSpace" class="link_research">[code]</a>
       </p>
@@ -97,7 +97,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning</b> <br>
-     <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>*, E. Fanì*, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup> <br>
+     <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>*, E. Fanì*, M. Toldo, D. Caldarola, A. Tavera, U. Michieli<sup>&#8224;</sup>, M. Ciccone<sup>&#8224;</sup>, P. Zanuttigh<sup>&#8224;</sup>, B. Caputo<sup>&#8224;</sup> <br>
       IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023 (oral). <br>
       <a href="https://arxiv.org/abs/2210.02326" class="link_research">[paper]</a><a href="https://github.com/Erosinho13/LADD" class="link_research">[code]</a> 
       </p>
@@ -116,7 +116,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>Federated Learning in Computer Vision</b> <br>
-    <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>*, G. Rizzoli*, P. Zanuttigh <br>
+    <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>*, G. Rizzoli*, P. Zanuttigh <br>
      IEEE Access, 2023. <br>
       <a href="https://ieeexplore.ieee.org/document/10234425" class="link_research">[paper]</a>
       </p>
@@ -128,7 +128,7 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>Continual coarse-to-fine domain adaptation in semantic segmentation</b> <br>
-    <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>, F. Barbato, U. Michieli, P. Zanuttigh <br>
+    <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, F. Barbato, U. Michieli, P. Zanuttigh <br>
        Elsevier Image and Vision Computing, 2022. <br>
      <a href="https://doi.org/10.1016/j.imavis.2022.104426" class="link_research">[paper]</a><a href="https://lttm.dei.unipd.it/paper_data/CCDA/" class="link_research">[webpage]</a><a href="https://github.com/LTTM/CCDA" class="link_research">[code]</a>
      </p>
