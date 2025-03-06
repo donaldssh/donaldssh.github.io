@@ -45,6 +45,18 @@ Recently, I'm working on **Model Merging** and **Image Generation**.
 <table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
   <tr>
     <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/ALT.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> <b>Adaptive Local Training in Federated Learning</b> <br>
+        <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">Donald Shenaj</a>, E. Belilovsky, P. Zanuttigh  <br>
+       International Conference on Learning Representations (ICLR), 2025, MCDC Workshop.<br>
+      <a href="https://openreview.net/forum?id=EAMnemlXB2" class="link_research">[paper]</a>
+    </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/hyper.png" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
