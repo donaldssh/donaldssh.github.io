@@ -6,12 +6,9 @@ permalink: /research/
 
 I am currently doing an internship at [Samsung Research UK](https://research.samsung.com/sruk){:target="_blank"} under the supervision of [Umberto Michieli](https://umbertomichieli.github.io/){:target="_blank"} and [Mete Ozay](https://openreview.net/profile?id=~Mete_Ozay3){:target="_blank"}.
 
-I am a third year Ph.D. student in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} at the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), under the supervision of Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}. On December 2nd, 2024, I submitted the final version of my Ph.D. thesis.
+I hold a Ph.D. in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} from the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), where I was supervised by Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}. From May to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, working with Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
-From May to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, under the supervision of Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
-
-During my Ph.D. I worked on large-scale machine learning problems and their application to visual understanding, in particular I worked on **Federated Learning**, **Continual Learning**, **Domain Adaptation**, and **Semantic Segmentation**. 
-Recently, I'm working on **Model Merging** and **Image Generation**.
+My research focuses on large-scale machine learning problems and their applications to visual understanding. I have worked on various aspects of **Federated Learning**, **Continual Learning**, **Domain Adaptation**, and **Semantic Segmentation**. More recently, I have been exploring **Model Merging** and **Image Generation**.
 
 
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
