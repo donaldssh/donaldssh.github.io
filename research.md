@@ -13,6 +13,8 @@ More recently, I have been exploring **Model Merging**, **Image Generation** and
 
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
 
+### Reviewer
+ICCV 2025, CVPR 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML 2023 Workshops, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
 
 ### Publications
 
