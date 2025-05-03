@@ -4,12 +4,12 @@ title: "Research"
 permalink: /research/
 ---
 
-I am currently doing an internship at [Samsung Research UK](https://research.samsung.com/sruk){:target="_blank"} under the supervision of [Umberto Michieli](https://umbertomichieli.github.io/){:target="_blank"} and [Mete Ozay](https://openreview.net/profile?id=~Mete_Ozay3){:target="_blank"}.
+I am a Post-Doc Researcher at the <a href="https://www.unipi.it/index.php/english" target="_blank"> University of Pisa</a>.
 
-I hold a Ph.D. in [Information Engineering](https://phd.dei.unipd.it){:target="_blank"} from the [University of Padova](https://www.unipd.it){:target="_blank"} (Italy), where I was supervised by Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}. From May to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, working with Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
+I recently completed my Ph.D. at the [University of Padova](https://www.unipd.it){:target="_blank"}, under the guidance of Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}. My academic journey has been marked by collaborations with globally renowned institutions. From October 2024 to April 2025 I as a research intern at [Samsung Research UK](https://research.samsung.com/sruk){:target="_blank"} under the supervision of [Umberto Michieli](https://umbertomichieli.github.io/){:target="_blank"} and [Mete Ozay](https://openreview.net/profile?id=~Mete_Ozay3){:target="_blank"}. From May 2023 to November 2023, I was also a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, working with Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
-My research focuses on large-scale machine learning problems and their applications to visual understanding. I have worked on various aspects of **Federated Learning**, **Continual Learning**, **Domain Adaptation**, and **Semantic Segmentation**. More recently, I have been exploring **Model Merging** and **Image Generation**.
-
+In my Ph.D. I addressed key limitations of ML models for visual understanding, particularly their difficulty in adapting to dynamic, real-world conditions, learning over time and from decentralized data sources, focusing on three emerging paradigms: **Domain Adaptation**, **Continual Learning**, and **Federated Learning**.
+More recently, I have been exploring **Model Merging**, **Image Generation** and **LLMs**.
 
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
 
