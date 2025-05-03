@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+I am not currently teaching any course.
 
 {::options parse_block_html="True" /}
 <details open> 
