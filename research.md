@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-I am a Post-Doc Researcher at the <a href="https://www.unipi.it/index.php/english" target="_blank"> University of Pisa</a>.
+I am a Postdoctoral Researcher at the <a href="https://www.unipi.it/index.php/english" target="_blank"> University of Pisa</a>.
 
 I recently completed my Ph.D. at the [University of Padova](https://www.unipd.it){:target="_blank"}, under the guidance of Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}. My academic journey has been marked by collaborations with globally renowned institutions. From October 2024 to April 2025 I as a research intern at [Samsung Research UK](https://research.samsung.com/sruk){:target="_blank"} under the supervision of [Umberto Michieli](https://umbertomichieli.github.io/){:target="_blank"} and [Mete Ozay](https://openreview.net/profile?id=~Mete_Ozay3){:target="_blank"}. From May 2023 to November 2023, I was also a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, working with Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
