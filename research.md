@@ -19,7 +19,15 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
 ### Publications
 
 
-#### Preprints
+<!-- #### Preprints
+
+
+<table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
+
+</table> -->
+
+
+####  Conferences
 
 
 <table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
@@ -30,18 +38,11 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b> <br>
       <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli <br>
-       arXiv 2024. <br>
+       IEEE/CVF International Conference on Computer Vision (ICCV), 2025 . <br>
       <a href="https://arxiv.org/abs/2412.05148" class="link_research">[paper]</a><a href="https://github.com/donaldssh/LoRA.rar" class="link_research">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="link_research">[video]</a>
     </p>
     </td>
   </tr>
-</table>
-
-
-####  Conferences
-
-
-<table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
   <tr>
     <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/ALT.png" alt="ABS" style="width: 100%;">
