@@ -3,7 +3,7 @@ body {
     margin: 0 auto;
     padding: 0;
     font-family: monospace;
-    font-size: 12px;
+    font-size: 14px;
     line-height: unset !important;
     color: rgba(255,255,255,0.6);
     text-align: center;
@@ -78,7 +78,7 @@ pre {
     border-radius: 3px;
     overflow:auto;
 		font-family: monospace;
-		font-size: 12px;
+		font-size: 14px;
 		color: rgba(255,255,255,0.4);
 }
 img {
@@ -215,7 +215,7 @@ table a {
 blockquote {
     border-left: unset;
     margin: unset;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 div.container > div.row > div.col-lg-8{
