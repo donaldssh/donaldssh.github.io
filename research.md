@@ -51,7 +51,7 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
     <p> <b>Adaptive Local Training in Federated Learning</b> <br>
         <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, E. Belilovsky, P. Zanuttigh  <br>
        International Conference on Learning Representations (ICLR), 2025, MCDC Workshop.<br>
-      <a href="https://openreview.net/forum?id=EAMnemlXB2" class="link_research">[paper]</a>
+      <a href="https://openreview.net/forum?id=EAMnemlXB2" class="link_research">[paper]</a><a href="https://github.com/LTTM/ALT" class="link_research">[code]</a>
     </p>
     </td>
   </tr>
