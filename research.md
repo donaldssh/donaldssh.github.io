@@ -39,7 +39,7 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
     <p> <b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b> <br>
       <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli <br>
        IEEE/CVF International Conference on Computer Vision (ICCV), 2025.<br>
-      <a href="https://arxiv.org/abs/2412.05148" class="link_research">[paper]</a><a href="https://github.com/donaldssh/LoRA.rar" class="link_research">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="link_research">[video]</a>
+      <a href="https://arxiv.org/abs/2412.05148" class="link_research">[paper]</a><a href="https://donaldssh.github.io/LoRA.rar" class="link_research">[website]</a><a href="https://github.com/donaldssh/LoRA.rar" class="link_research">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="link_research">[video]</a>
     </p>
     </td>
   </tr>
@@ -50,7 +50,7 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>Adaptive Local Training in Federated Learning</b> <br>
         <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, E. Belilovsky, P. Zanuttigh  <br>
-       International Conference on Learning Representations (ICLR), 2025, MCDC Workshop.<br>
+       International Conference on Learning Representations (ICLR), 2025, MCDC Workshop, and EUSIPCO 2025.<br>
       <a href="https://openreview.net/forum?id=EAMnemlXB2" class="link_research">[paper]</a><a href="https://github.com/LTTM/ALT" class="link_research">[code]</a>
     </p>
     </td>
@@ -130,7 +130,7 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
     <p> <b>Continual coarse-to-fine domain adaptation in semantic segmentation</b> <br>
     <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, F. Barbato, U. Michieli, P. Zanuttigh <br>
        Elsevier Image and Vision Computing, 2022. <br>
-     <a href="https://doi.org/10.1016/j.imavis.2022.104426" class="link_research">[paper]</a><a href="https://lttm.dei.unipd.it/paper_data/CCDA/" class="link_research">[webpage]</a><a href="https://github.com/LTTM/CCDA" class="link_research">[code]</a>
+     <a href="https://doi.org/10.1016/j.imavis.2022.104426" class="link_research">[paper]</a><a href="https://lttm.dei.unipd.it/paper_data/CCDA/" class="link_research">[website]</a><a href="https://github.com/LTTM/CCDA" class="link_research">[code]</a>
      </p>
     </td>
   </tr>
