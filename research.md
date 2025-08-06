@@ -19,12 +19,23 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
 ### Publications
 
 
-<!-- #### Preprints
+#### Preprints
 
 
 <table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
-
-</table> -->
+<tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/fedpromo.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> <b>FedPromo: Federated Lightweight Proxy Models at the Edge Bring New Domains to Foundation Models</b> <br>
+      M. Caligiuri, F. Barbato, <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, U. Michieli, P. Zanuttigh<br>
+       under review, 2025.<br>
+      <a href="https://arxiv.org/abs/2508.03356" class="link_research">[paper]</a><a href="https://github.com/LTTM/FedPromo" class="link_research">[code]</a>
+    </p>
+    </td>
+  </tr>
+</table>
 
 
 ####  Conferences
@@ -33,7 +44,7 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), ICLR Workshops 2025, CVPR Workshops
 <table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
   <tr>
     <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
-      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/lorarar.png" alt="ABS" style="width: 100%;">
+      <img src="https://donaldssh.github.io/LoRA.rar/images/teaser_iccv.jpg" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
     <p> <b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b> <br>
