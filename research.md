@@ -54,7 +54,7 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVP
     <p> <b>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</b> <br>
       <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, O. Bohdal, M. Ozay, P. Zanuttigh, U. Michieli <br>
        IEEE/CVF International Conference on Computer Vision (ICCV), 2025.<br>
-      <a href="https://arxiv.org/abs/2412.05148" class="link_research">[paper]</a><a href="https://donaldssh.github.io/LoRA.rar" class="link_research">[website]</a><a href="https://github.com/donaldssh/LoRA.rar" class="link_research">[code]</a><a href="https://www.youtube.com/watch?v=FfExWgcgNbQ" class="link_research">[video]</a>
+      <a href="https://arxiv.org/abs/2412.05148" class="link_research">[paper]</a><a href="https://donaldssh.github.io/LoRA.rar" class="link_research">[website]</a><a href="https://github.com/donaldssh/LoRA.rar" class="link_research">[code]</a><a href="https://www.youtube.com/watch?v=S0ogyrwZLxU" class="link_research">[video]</a>
     </p>
     </td>
   </tr>
