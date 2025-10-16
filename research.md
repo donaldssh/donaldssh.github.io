@@ -27,7 +27,19 @@ ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVP
 
 
 <table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
-<tr>
+  <tr>
+    <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/kmerge.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> <b>K-Merge: Online Continual Merging of Adapters for On-device Large Language Models</b> <br>
+      <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, O. Bohdal, T. Ceritli, M. Ozay, P. Zanuttigh, U. Michieli <br>
+       under review, 2025.<br>
+      <a href="https://arxiv.org/abs/2510.13537" class="link_research">[paper]</a>
+    </p>
+    </td>
+  </tr>
+  <tr>
     <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/fedpromo.png" alt="ABS" style="width: 100%;">
     </td>
