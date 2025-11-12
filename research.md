@@ -4,21 +4,23 @@ title: "Research"
 permalink: /research/
 ---
 
-I am a Postdoctoral Researcher at the [University of Pisa](https://www.unipi.it){:target="_blank"}, working in [Davide Bacciu](https://pages.di.unipi.it/bacciu/){:target="_blank"}’s group. I am part of the [CoEvolution Project](https://coevolution-project.eu/){:target="_blank"} for safe and trusthworthy AI, and research collaborator with Samsung.
+I am a Postdoctoral Researcher at the [University of Pisa](https://www.unipi.it){:target="_blank"}, working in [Davide Bacciu](https://pages.di.unipi.it/bacciu/){:target="_blank"}’s group. I am part of the [CoEvolution Project](https://coevolution-project.eu/){:target="_blank"} for safe and trusthworthy AI.
 
 I obtained my Ph.D. at the [University of Padova](https://www.unipd.it){:target="_blank"}, under the guidance of Prof. [Pietro Zanuttigh](https://medialab.dei.unipd.it/members/pietro-zanuttigh/){:target="_blank"}. Before that, I earned a Master Degree from the same University, and a Bachelor Degree from the [University of Bologna](https://www.unibo.it/en){:target="_blank"}, both with honors.
 
 My academic journey has been marked by collaborations with globally renowned institutions. From October 2024 to April 2025 I as a research intern at [Samsung Research UK](https://research.samsung.com/sruk){:target="_blank"} under the supervision of [Umberto Michieli](https://umbertomichieli.github.io/){:target="_blank"} and [Mete Ozay](https://openreview.net/profile?id=~Mete_Ozay3){:target="_blank"}. From May 2023 to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, working with Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
-In my Ph.D. I addressed key limitations of ML models for visual understanding, particularly their difficulty in adapting to dynamic, real-world conditions, learning over time and from decentralized data sources, focusing on three emerging paradigms: **Domain Adaptation**, **Continual Learning**, and **Federated Learning**.
-More recently, I have been exploring **Model Merging**, **Image Generation** and **LLMs**.
+During my Ph.D., I addressed fundamental limitations of machine learning models for visual understanding, specifically their challenges in adapting to dynamic, real-world conditions, learning continuosly over time and from decentralized data sources,
+My research explored these challenges through three emerging paradigms: domain adaptation, continual learning, and federated learning.
+
+Building on this foundation of adaptability and decentralized learning, my current work focuses on personalized generative AI, where I explore how **model merging**, **image generation**, and **large language models (LLMs)** can be combined to enable personalized and adaptive AI systems.
 
 I am always open to new collaborations! Email me, if you would like to discuss or catch up at a conference.
 
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
 
 ### Reviewer
-ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML 2023 Workshops, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
+CVPR 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML 2023 Workshops, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
 
 ### Publications
 
