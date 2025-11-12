@@ -22,6 +22,15 @@ I am always open to new collaborations! Email me, if you would like to discuss o
 ### Reviewer
 CVPR 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML 2023 Workshops, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
 
+### Awards
+- Best Paper Award @ ICCV Workshop on [Personalization in Generative AI](https://p13n-workshop.github.io/#schedule){:target="_blank"}
+- Outstanding Reviewer @ [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer){:target="_blank"}
+- National PhD scholarship on a free subject
+- M.Sc., Summa Cum Laude, University of Padova
+- B.Sc., Summa Cum Laude, University of Bologna
+- Regional Grant for Academic Excellence in High School, Emilia-Romagna Region
+- High School Award, project presented at the Italian selection for [EUCYS](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/eucys_en) and [Mostratec](https://mostratec.liberato.com.br/)
+
 ### Publications
 
 
@@ -168,7 +177,7 @@ CVPR 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshop
 <sup>\*</sup> Equal contribution. <sup>&#8224;</sup> Equal supervision.
 ##### Ph.D., Master's and Bachelor's Thesis  
 
-[T3] D. Shenaj, "Morphing Distributed and Transfer Learning Paradigms for Visual Understanding", Ph.D thesis in Information Engineering, University of Padova, (Submitted) December 2024.
+[T3] D. Shenaj, "[Morphing Distributed and Transfer Learning Paradigms for Visual Understanding](https://tesidottorato.depositolegale.it/handle/20.500.14242/200408){:target="_blank"}", Ph.D thesis in Information Engineering, University of Padova, March 2025.
 
 
 [T2] D. Shenaj, "Coarse-to-Fine Learning for Semantic Segmentaion across Multiple Domains", MS thesis in ICT for Internet and Multimedia, University of Padova, September 2021.
