@@ -272,3 +272,48 @@ canvas {
 .link_research:hover{
     color: rgba(220,220,0,0.6);   
 }
+
+.image.is-128x128 img {
+  width: 128;
+  height: 128;
+}
+
+.has-text-centered {
+    text-align: center !important;
+}
+
+.py-6 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.px-4 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.heading {
+    display: block;
+    font-size: 11px;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.pb-2 {
+    padding-bottom: 0.5rem !important;
+}
+
+.level-item {
+    align-items: center;
+    display: flex;
+    flex-basis: auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+    justify-content: center;
+}
+
+.level-item .title,
+.level-item .subtitle {
+    margin-bottom: 0;
+}
