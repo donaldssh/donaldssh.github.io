@@ -3,9 +3,9 @@ layout: post
 title:  "Attending ICCV 2025"
 date:   2025-10-16 12:00:00
 categories:
-    - info
+    - blog
 tags:
-    - paper
+    - info
 ---
 
 Heading to Hawaii for ICCV 2025 🌺✈️
@@ -19,7 +19,11 @@ If you’ll be in Honolulu and would like to connect, chat about model merging, 
 Aloha! 🌴
 
 🔗Project Page: <https://donaldssh.github.io/LoRA.rar/>{:target="_blank"}
+
 📜Paper: <https://arxiv.org/abs/2412.05148>{:target="_blank"}
+
 💻Code: <https://github.com/donaldssh/LoRA.rar>{:target="_blank"}
+
 🌐ICCV: <https://iccv.thecvf.com/virtual/2025/poster/1009>{:target="_blank"}
+
 🎬YouTube: <https://www.youtube.com/watch?v=S0ogyrwZLxU>{:target="_blank"}
