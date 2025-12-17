@@ -6,7 +6,7 @@ permalink: /
 
 <div id="pic-container">
     <div class="image">
-        <img src="/images/hawaii.jpg" id="user-image" alt="My Profile Photo" >
+        <img src="/images/pic_2025.jpg" id="user-image" alt="My Profile Photo" >
     </div>
     <div class="text">
         <h1>Donald Shenaj</h1> 
@@ -20,49 +20,3 @@ permalink: /
     </div>
 </div>
 
-<section>
-        <div id="affiliations" class="container" style="overflow-x: auto; white-space: nowrap; scroll-behavior: smooth; padding: 1rem 0;">
-            <div class="level" style="display: inline-flex;">
-                <div class="level-item has-text-centered py-6 px-4" style="display: inline-block;">
-                    <div>
-                        <p class="heading pb-2">University of Pisa<br>May 2025 - PRESENT</p>
-                        <a class="text-decoration-none" href="https://www.unipi.it/en">
-                            <img style="width:128px; height:auto;" src="images/no_background/unipi-logo.png">
-                        </a>
-                    </div>
-                </div>         
-                <div class="level-item has-text-centered py-6 px-4" style="display: inline-block;">
-                    <div>
-                        <p class="heading pb-2">Samsung Research<br>Oct 2024 - Apr 2025</p>
-                        <a class="text-decoration-none" href="https://research.samsung.com/">
-                            <img style="width:128px; height:auto;" src="images/no_background/samsung-logo.png">
-                        </a>
-                    </div>
-                </div>
-                <div class="level-item has-text-centered py-6 px-4" style="display: inline-block;">
-                    <div>
-                        <p class="heading pb-2">Mila<br>May 2023 - Nov 2023</p>
-                        <a class="text-decoration-none" href="https://mila.quebec/en/">
-                            <img style="width:128px; height:auto;" src="images/no_background/mila-logo.png">
-                        </a>
-                    </div>
-                </div>
-                <div class="level-item has-text-centered py-6 px-4" style="display: inline-block;">
-                    <div>
-                        <p class="heading pb-2">Concordia University<br>May 2023 - Nov 2023</p>
-                        <a class="text-decoration-none" href="https://www.concordia.ca/">
-                            <img style="width:128px; height:auto;" src="images/no_background/concordia-logo.png">
-                        </a>
-                    </div>
-                </div>
-                <div class="level-item has-text-centered py-6 px-4" style="display: inline-block;">
-                    <div>
-                        <p class="heading pb-2">University of Padova<br>2021 - 2025</p>
-                        <a class="text-decoration-none" href="https://www.unipd.it/en/">
-                            <img style="width:128px; height:auto;" src="images/no_background/unipd-logo.png">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-</section>

@@ -10,8 +10,8 @@ I obtained my Ph.D. at the [University of Padova](https://www.unipd.it){:target=
 
 My academic journey has been marked by collaborations with globally renowned institutions. From October 2024 to April 2025 I as a research intern at [Samsung Research UK](https://research.samsung.com/sruk){:target="_blank"} under the supervision of [Umberto Michieli](https://umbertomichieli.github.io/){:target="_blank"} and [Mete Ozay](https://openreview.net/profile?id=~Mete_Ozay3){:target="_blank"}. From May 2023 to November 2023, I was a research intern at [Mila - Quebec AI Institute](https://mila.quebec/en/){:target="_blank"} & [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html){:target="_blank"}, working with Prof. [Eugene Belilovsky](http://eugenium.github.io/){:target="_blank"}.
 
-During my Ph.D., I addressed fundamental limitations of machine learning models for visual understanding, specifically their challenges in adapting to dynamic, real-world conditions, learning continuosly over time and from decentralized data sources,
-My research explored these challenges through three emerging paradigms: domain adaptation, continual learning, and federated learning.
+During my Ph.D., I addressed fundamental limitations of machine learning models for visual understanding, specifically their challenges in adapting to dynamic, real-world conditions, learning continuously over time, and from decentralized data sources.
+My research explored these challenges through three emerging paradigms: domain adaptation, continual learning, and federated learning. 
 
 Building on this foundation of adaptability and decentralized learning, my current work focuses on personalized generative AI, where I explore how **model merging**, **image generation**, and **large language models (LLMs)** can be combined to enable personalized and adaptive AI systems.
 
