@@ -20,7 +20,7 @@ I am always open to new collaborations! Email me, if you would like to discuss o
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
 
 ### Reviewer
-CVPR 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML 2023 Workshops, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
+ECCV 2026, CVPR 2026, BMVC 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML Workshops 2023, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
 
 ### Awards
 - Best Paper Award @ ICCV Workshop on [Personalization in Generative AI](https://p13n-workshop.github.io/#schedule){:target="_blank"}
