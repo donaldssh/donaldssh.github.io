@@ -20,7 +20,7 @@ I am always open to new collaborations! Email me, if you would like to discuss o
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
 
 ### Reviewer
-ECCV 2026, CVPR 2026, BMVC 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML Workshops 2023, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
+ECCV 2026, CVPR 2026, BMVC 2026, CoLLAs 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML Workshops 2023, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
 
 ### Awards
 - Best Paper Award @ ICCV Workshop on [Personalization in Generative AI](https://p13n-workshop.github.io/#schedule){:target="_blank"}
@@ -38,6 +38,18 @@ ECCV 2026, CVPR 2026, BMVC 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AA
 
 
 <table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
+  <tr>
+      <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://donaldssh.github.io/NotAllLayersAreCreatedEqual/images/teaser.jpg" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> <b>Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation</b> <br>
+      <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, F. Errica, A. Carta<br>
+       under review, 2026.<br>
+      <a href="https://arxiv.org/abs/.." class="link_research">[paper]</a><a href="https://donaldssh.github.io/NotAllLayersAreCreatedEqual" class="link_research">[website]</a><a href="https://github.com/donaldssh/NotAllLayersAreCreatedEqual" class="link_research">[code]</a>
+    </p>
+    </td>
+  </tr>
   <tr>
     <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
       <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/kmerge.png" alt="ABS" style="width: 100%;">
