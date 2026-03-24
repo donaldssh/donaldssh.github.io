@@ -46,7 +46,7 @@ ECCV 2026, CVPR 2026, BMVC 2026, CoLLAs 2026, ICCV 2025, CVPR 2025 (Outstanding 
     <p> <b>Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation</b> <br>
       <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, F. Errica, A. Carta<br>
        under review, 2026.<br>
-      <a href="https://arxiv.org/abs/.." class="link_research">[paper]</a><a href="https://donaldssh.github.io/NotAllLayersAreCreatedEqual" class="link_research">[website]</a><a href="https://github.com/donaldssh/NotAllLayersAreCreatedEqual" class="link_research">[code]</a>
+      <a href="https://arxiv.org/abs/2603.21884" class="link_research">[paper]</a><a href="https://donaldssh.github.io/NotAllLayersAreCreatedEqual" class="link_research">[website]</a><a href="https://github.com/donaldssh/NotAllLayersAreCreatedEqual" class="link_research">[code]</a>
     </p>
     </td>
   </tr>
