@@ -4,9 +4,22 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-I am not currently teaching any course.
-
 {::options parse_block_html="True" /}
+<details open> 
+<summary markdown="span" style="cursor: pointer;display: list-item" class="h5">A.Y. 26-27</summary>
+* **Lecturer** @ Department of Computer Science, University of Pisa <br>
+**Course**: [Computer Vision](https://unipi.coursecatalogue.cineca.it/corsi/2025/10436/insegnamenti/2026/53217_702695_79617/2025/53217){:target="_blank"} - MSc Computer Science <br>
+**Teaching module**: 3CFU (24 hours) <br>
+<br>
+</details>
+<details open> 
+<summary markdown="span" style="cursor: pointer;display: list-item" class="h5">A.Y. 25-26</summary>
+* **Guest lecturer** @ Department of Computer Science, University of Pisa <br>
+**Course**: [Continual Learning](https://unipi.coursecatalogue.cineca.it/corsi/2025/10436/insegnamenti/2025/53217_691520_77822/2025/53217){:target="_blank"} - MSc Computer Science <br>
+**Lectures**: *Model Merging & Patching*; *Personalized Diffusion Models* (4 hours total) <br>
+**Teacher**: Prof. Antonio Carta <br>
+<br>
+</details>
 <details open> 
 <summary markdown="span" style="cursor: pointer;display: list-item" class="h5">A.Y. 23-24</summary>
 * **Teaching assistant** @ Department of Information Engineering, University of Padova <br>
