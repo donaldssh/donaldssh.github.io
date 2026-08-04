@@ -40,6 +40,18 @@ NeurIPS 2026, ECCV 2026, CVPR 2026, BMVC 2026, CoLLAs 2026, AAAI 2026, ICML Work
 <table style="border-collapse: collapse; border-spacing: 0 10px; width: 100%;">
   <tr>
       <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
+      <img src="https://raw.githubusercontent.com/donaldssh/donaldssh.github.io/master/res_thumbs/zpeft.png" alt="ABS" style="width: 100%;">
+    </td>
+    <td style="border: none; width: 70%; text-align: left;">
+    <p> <b>Z-PEFT: Zero-shot Backdoor Detection in Parameter-Efficient Fine-Tuning via Canonical Spectral Signatures</b> <br>
+      N. Pitzalis, <a href="https://scholar.google.com/citations?user=hK8OlqkAAAAJ" class="link_research">D. Shenaj</a>, G. Cignoni, A. Cossu, D. Bacciu, A. Carta <br>
+       under review, 2026.<br>
+      <a href="https://arxiv.org/abs/2608.02271" class="link_research">[paper]</a>
+    </p>
+    </td>
+  </tr>
+  <tr>
+      <td style="border: none; width: 20%; text-align: left; vertical-align: top; padding-right: 4%;">
       <img src="https://donaldssh.github.io/NotAllLayersAreCreatedEqual/images/teaser.jpg" alt="ABS" style="width: 100%;">
     </td>
     <td style="border: none; width: 70%; text-align: left;">
