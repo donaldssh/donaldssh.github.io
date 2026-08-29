@@ -50,3 +50,23 @@ permalink: /teaching/
 </details>
 {::options parse_block_html="false" /}
 
+
+
+### Supervision
+
+I co-advised multiple MSc students' theses.
+
+**University of Pisa**:
+- Filippo Morelli (ongoing) - Master Thesis in Computer Science.
+- Matteo Alessandrucci (ongoing) - Master Thesis in Computer Science.
+
+**University of Padova**:
+- Andrea Campagnol (2026) - Master Thesis in ICT for Internet and Multimedia.
+- Qiqi Zhang (2025) - Master Thesis in Physics of Data.
+- Francesco Zane (2024) - Master Thesis in Physics of Data.
+- Moayad Abdelhafeez Arbab Hamed (2024) - Master Thesis in ICT for Internet and Multimedia.
+- Algun Mustafa (2024) - Master Thesis in ICT for Internet and Multimedia.
+- Tao Menglu (2024) - Master Thesis in ICT for Internet and Multimedia.
+- Alessandro Fella (2023) - Master Thesis in Physics of Data.
+- Alberto Rigon (2022) - Master Thesis in Computer Engineering.
+- Lorenzo Rossetto (2022) - Master Thesis in Automation Engineering.
