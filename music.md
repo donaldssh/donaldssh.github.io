@@ -26,17 +26,19 @@ Just a small sample of my favorite music.
 
 * [Burzum - Dunkelheit](https://www.youtube.com/watch?v=DPyOhP1GTRQ){:target="_blank"}
 
-* [Christ vs. Warhol - And If You Forget](https://www.youtube.com/watch?v=cE1HRPL4m6M){:target="_blank"}
+* [Christ vs. Warhol - And If You Forget](https://www.youtube.com/watch?v=G5VRIZgmMbU){:target="_blank"}
 
 * [Clan Of Xymox - Back Door](https://www.youtube.com/watch?v=y47PxC9u6Kc){:target="_blank"} 
 
 * [Crimson Scarlet - Sanctuary](https://www.youtube.com/watch?v=8Am9Mf2plIA){:target="_blank"} 
 
-* [Cristobal Tapia de Veer - Utopia Overture](https://www.youtube.com/watch?v=f6855KGtN1Y){:target="_blank"} 
+* [Cristobal Tapia de Veer - Utopia Overture](https://www.youtube.com/watch?v=CeUaHU8CbdU){:target="_blank"} 
 
 * [Crystal Castles - Doe Deer](https://www.youtube.com/watch?v=0ruvmkCq4esBeneath){:target="_blank"}
 
 * [David Bowie - The man who sold the world](https://www.youtube.com/watch?v=HSH--SJKVQQ){:target="_blank"}
+
+* [Bahramji & Maneesh de Moor - Dreamcatcher](https://www.youtube.com/watch?v=ppHds6e0vZQ){:target="_blank"}
 
 * [Godspeed You! Black Emperor - Static ](https://www.youtube.com/watch?v=RW86oMO80Ms){:target="_blank"}
 
@@ -52,18 +54,26 @@ Just a small sample of my favorite music.
 
 * [Merzbow - Requiem](https://www.youtube.com/watch?v=FgOg6aYqASY){:target="_blank"}
 
+* [Porcupine Tree - Anesthetize](https://www.youtube.com/watch?v=aLd7QVOOJ2w){:target="_blank"}
+
 * [Radiohead - Street spirit](https://www.youtube.com/watch?v=LCJblaUkkfc){:target="_blank"}
 
 * [She Past Away - Kasvetli Kutlama](https://www.youtube.com/watch?v=oy2x_kHCy4w){:target="_blank"}
 
 * [Sizzla - I'm Living (Ed Solo & Stickybuds Remix)](https://www.youtube.com/watch?v=prBV3gFYkNA){:target="_blank"}
 
+* [Spiralhead - Salsatrack](https://www.youtube.com/watch?v=JyvaqxZ8xiI){:target="_blank"}
+
 * [Teddy And His Patches - Suzy Creamcheese](https://www.youtube.com/watch?v=SOaxtDSWWi0){:target="_blank"}
+
+* [The Soft Moon - Try](https://www.youtube.com/watch?v=2-Lkvq7UWLM){:target="_blank"}
+
+* [The Clash - The Guns of Brixton](https://www.youtube.com/watch?v=JcW8VNwYvL0){:target="_blank"}
 
 * [Thom Yorke - Suspirium](https://www.youtube.com/watch?v=BTZl9KMjbrU){:target="_blank"}
 
 * [Vandal - Mr Politician](https://www.youtube.com/watch?v=r5xTmK2Fq1w){:target="_blank"}
 
-* [Witching Hour - Ligea](https://www.youtube.com/watch?v=CK9RZ9qgSfg&list=RDCK9RZ9qgSfg&start_radio=1){:target="_blank"}
+* [Witching Hour - Ligea](https://www.youtube.com/watch?v=CK9RZ9qgSfg){:target="_blank"}
 
 * [Yann Tiersen - Rue des Cascades](https://www.youtube.com/watch?v=o8lPEgqE16o){:target="_blank"}
