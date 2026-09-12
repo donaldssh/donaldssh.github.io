@@ -9,7 +9,7 @@ permalink: /teaching/
 <summary markdown="span" style="cursor: pointer;display: list-item" class="h5">A.Y. 26-27</summary>
 * **Lecturer** @ Department of Computer Science, University of Pisa <br>
 **Course**: [Computer Vision](https://unipi.coursecatalogue.cineca.it/corsi/2025/10436/insegnamenti/2026/53217_702695_79617/2025/53217){:target="_blank"} - MSc Computer Science <br>
-**Teaching module**: 3CFU (24 hours) <br>
+**Teaching module**: 3 CFU (24 hours) <br>
 <br>
 </details>
 <details open> 

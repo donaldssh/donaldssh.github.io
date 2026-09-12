@@ -24,23 +24,15 @@ permalink: /talks/
   background-color: #dcfce7;
   color: #166534;
 }
-.tag-lecture {
-  background-color: #f3e8ff;
-  color: #6b21a8;
-}
 </style>
 
 - **July 7, 2026** <span class="talk-tag tag-oral">Oral Presentation</span> "K-Merge: Online Continual Merging of Adapters for On-device Large Language Models", at *ACL 2026*, San Diego, California, USA.
-
-- **May 21, 2026** <span class="talk-tag tag-lecture">Guest Lecture</span> "Personalized Diffusion Models", Continual Learning MSc course, University of Pisa, Italy.
-
-- **May 18, 2026** <span class="talk-tag tag-lecture">Guest Lecture</span> "Model Merging & Patching", Continual Learning MSc course, University of Pisa, Italy.
 
 - **March 25, 2026** <span class="talk-tag tag-invited">Invited Talk</span> "Merging and Adaptive LoRAs for Personalized Generative AI", *LAMP Group, CVC* (Joost van de Weijer), Barcelona, Spain.
 
 - **October 20, 2025** <span class="talk-tag tag-oral">Oral Presentation</span> "LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation", at *ICCV 2025 Workshop on Personalized Generative AI*, Honolulu, Hawaii, USA. **Best Paper Award.**
 
-- **May 19, 2025** <span class="talk-tag tag-invited">Invited Talk</span> "From Adaptation to Modularity: Learning Paradigms for Lifelong and Decentralized AI", Pisa, Italy.
+- **May 19, 2025** <span class="talk-tag tag-invited">Invited Talk</span> "From Adaptation to Modularity: Learning Paradigms for Lifelong and Decentralized AI", University of Pisa, Italy.
 
 - **June 29, 2023** <span class="talk-tag tag-oral">Oral Presentation</span> "Asynchronous Federated Continual Learning", at *CVPR 2023 Workshop on Federated Learning for Computer Vision*, Vancouver, Canada.
 
