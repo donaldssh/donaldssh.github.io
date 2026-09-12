@@ -60,15 +60,17 @@ Just a small sample of my favorite music.
 
 * [She Past Away - Kasvetli Kutlama](https://www.youtube.com/watch?v=oy2x_kHCy4w){:target="_blank"}
 
+* [Silent Flag - Enter The Batcave](https://www.youtube.com/watch?v=DxZUI1B1FR0){:target="_blank"}
+
 * [Sizzla - I'm Living (Ed Solo & Stickybuds Remix)](https://www.youtube.com/watch?v=prBV3gFYkNA){:target="_blank"}
 
 * [Spiralhead - Salsatrack](https://www.youtube.com/watch?v=JyvaqxZ8xiI){:target="_blank"}
 
 * [Teddy And His Patches - Suzy Creamcheese](https://www.youtube.com/watch?v=SOaxtDSWWi0){:target="_blank"}
 
-* [The Soft Moon - Try](https://www.youtube.com/watch?v=2-Lkvq7UWLM){:target="_blank"}
-
 * [The Clash - The Guns of Brixton](https://www.youtube.com/watch?v=JcW8VNwYvL0){:target="_blank"}
+
+* [The Soft Moon - Try](https://www.youtube.com/watch?v=2-Lkvq7UWLM){:target="_blank"}
 
 * [Thom Yorke - Suspirium](https://www.youtube.com/watch?v=BTZl9KMjbrU){:target="_blank"}
 
