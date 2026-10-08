@@ -57,8 +57,9 @@ permalink: /teaching/
 I co-advised multiple MSc students' theses.
 
 **University of Pisa**:
-- Filippo Morelli (ongoing) - Master Thesis in Computer Science.
+- Francesco Paolo Liuzzi - (ongoing) - Master Thesis in Computer Science.
 - Matteo Alessandrucci (ongoing) - Master Thesis in Computer Science.
+- Filippo Morelli (2026) - Master Thesis in Computer Science.
 
 **University of Padova**:
 - Andrea Campagnol (2026) - Master Thesis in ICT for Internet and Multimedia.
