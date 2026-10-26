@@ -19,17 +19,39 @@ I am always open to new collaborations! Email me, if you would like to discuss o
 
 <h6><a href="https://github.com/donaldssh/cv/raw/master/cv.pdf" id="download_cv" download>[Download CV]</a></h6>
 
-### Reviewer
-NeurIPS 2026, ECCV 2026, CVPR 2026, BMVC 2026, CoLLAs 2026, AAAI 2026, ICML Workshops 2026, ECCV Workshops 2026, ICCV 2025, CVPR 2025 (Outstanding Reviewer), AAAI 2025, ICLR Workshops 2025, CVPR Workshops 2025, WACV 2025, IEEE TPAMI, IEEE TMM, Pattern Recognition, CVIU, MMSP 2024, ICML Workshops 2023, ICPR 2022, Harms and Risks of AI in the Military (HRAIM)
 
 ### Awards
-- Best Paper Award @ ICCV Workshop on [Personalization in Generative AI](https://p13n-workshop.github.io/#schedule){:target="_blank"}
+- [Best Paper Award](https://donaldssh.github.io/blog/best-paper/){:target="_blank"} @ ICCV Workshop on [Personalization in Generative AI](https://p13n-workshop.github.io/iccv2025/index.html#schedule){:target="_blank"}
 - Outstanding Reviewer @ [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer){:target="_blank"}
 - National PhD scholarship on a free subject
 - M.Sc., Summa Cum Laude, University of Padova
 - B.Sc., Summa Cum Laude, University of Bologna
-- Regional Grant for Academic Excellence in High School, Emilia-Romagna Region
+- Award for Academic Excellence in High School, Cavalieri del Lavoro, Emilia-Romagna
 - High School Award, project presented at the Italian selection for [EUCYS](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/eucys_en) and [Mostratec](https://mostratec.liberato.com.br/)
+
+
+### Reviewer and Program Committee
+- Eurographics 2027
+- AAAI 2027, 2026, 2025
+- CVPR 2026, 2025 (Outstanding Reviewer)
+- NeurIPS 2026
+- CoLLAs 2026
+- BMVC 2026
+- ICCV 2025
+- WACV 2025
+- ICML Workshops 2026, 2023
+- ECCV Workshops 2026
+- ICLR Workshops 2025
+- CVPR Workshops 2025
+- Harms and Risks of AI in the Military (HRAIM) 2024
+- MMSP 2024
+- ICPR 2022
+- IEEE TPAMI
+- IEEE TMM
+- Pattern Recognition
+- Computer Vision and Image Understanding
+
+
 
 ### Publications
 
